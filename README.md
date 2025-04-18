@@ -4,7 +4,6 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Tech](https://img.shields.io/badge/stack-MERN-success)
-![Cloudinary](https://img.shields.io/badge/cloud-storage-Cloudinary-lightblue)
 
 ---
 
